@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #f9f9f9;
+  color: #333;
+}
+
+header, footer {
+  text-align: center;
+  padding: 20px;
+  background: #222;
+  color: white;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+.post-list article {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+
+.date {
+  color: #666;
+  font-size: 0.9em;
+}
