@@ -20,7 +20,11 @@ nav a {
   margin: 0 10px;
 }
 
-h1, h2, h3 {
+h1 {
+  color: #FFF;
+}
+
+h2, h3 {
   color: #333;
 }
 
