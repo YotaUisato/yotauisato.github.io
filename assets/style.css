@@ -11,7 +11,7 @@ header, footer {
   text-align: center;
   padding: 20px;
   background: #222;
-  color: #fff;
+  color: white;
 }
 
 nav a {
@@ -21,7 +21,7 @@ nav a {
 }
 
 h1 {
-  color: #fff;
+  color: white;
 }
 
 h2, h3 {
